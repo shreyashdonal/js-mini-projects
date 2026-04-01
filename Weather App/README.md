@@ -39,11 +39,11 @@ background: linear-gradient(135deg, #00feba, #5b548a);
 ➡ Syntax: `linear-gradient(direction, color1, color2, ...)`
 ➡ The `135deg` controls the **angle/direction of the gradient line**.
 
-v) `max-width: 470px;`
+v) max-width: 470px;
 ➡ If the screen size becomes very large (e.g., 1000px), the element might stretch too much.
 ➡ Using `max-width: 470px` ensures that **no matter the screen size, the width will not exceed 470px**, keeping the design consistent.
-vi)Reseting by default of 
----
+
+
 
 ## Summary
 

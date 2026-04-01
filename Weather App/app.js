@@ -39,7 +39,8 @@ async function checkWeather(city){
     console.log(weather);
     weather.style.display="block";
    }
-
+  console.log("Hello");
+  console.log("Hello3");
 
   
 }

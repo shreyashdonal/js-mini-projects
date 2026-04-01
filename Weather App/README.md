@@ -1,4 +1,6 @@
 # Weather App Project Notes
+All the resourse are in repo use them while creating the project.
+simple flow html>css>js
 
 ## Errors You Might Face
 
